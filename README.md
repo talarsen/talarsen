@@ -6,7 +6,7 @@ My name is Tara Larsen. My pronounds are she/her. Prior to my time at [Techtonic
 ## 🌱 Currently Learning
 I am an aspiring full-stack developer learning the PERN(PostgreSQL, Express, React, Node) stack.
 
-![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=radical)
+![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
 
 ## How to Reach Me
