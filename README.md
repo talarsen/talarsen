@@ -10,7 +10,7 @@ I am an aspiring full-stack developer learning the PERN(PostgreSQL, Express, Rea
 
 
 ## How to Reach Me
-[<img src="https://img.shields.io/badge/-%40talarsen74-blue?style=plastic&logo=linkedin">](<LINK>)
+[<img src="https://img.shields.io/badge/-%40talarsen74-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/talarsen74/)
 <!--
 **talarsen/talarsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
