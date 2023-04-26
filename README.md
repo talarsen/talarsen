@@ -3,7 +3,6 @@
 
 ## About
 * Full-stack developer PERN(PostgreSQL, Express, React, Node)
-* Pronouns are she/her. 
 * Bachelor of Science degrees in Parks and Natural Resources and Information Technology.  
 * Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering and mathematics) classes. 
 * Transferrable soft skills: 
