@@ -2,12 +2,15 @@
 
 
 ## About
-Full-stack developer PERN(PostgreSQL, Express, React, Node)
-My pronounds are she/her. 
-Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering and mathematics) classes.  I discovered software engineering when I was asked to teach an “Intro to Computers” class. While teaching, I gained many transferable skills that apply to software engineering.  I hold Bachelor of Science degrees in Parks and Natural Resources and Information Technology.  I am drawn to software engineering because it requires continual learning, collaboration and there are many opportunities to give back to society.
+* Full-stack developer PERN(PostgreSQL, Express, React, Node)
+* Pronounse are she/her. 
+* Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering and mathematics) classes.  I discovered software engineering when I was asked to teach an “Intro to Computers” class. While teaching, I gained many transferable skills that apply to software engineering.  
+* I hold Bachelor of Science degrees in Parks and Natural Resources and Information Technology.  
+* I am drawn to software engineering because it requires continual learning, collaboration and there are many opportunities to give back to society.
 
 ## 🌱 Currently Learning
-, Linux, AWS.
+* Linux Foundation Cloud Computing Certification
+* AWS Cloud Practicitioner Certification
 
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
