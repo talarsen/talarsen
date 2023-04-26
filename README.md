@@ -6,13 +6,12 @@
 * Pronouns are she/her. 
 * Bachelor of Science degrees in Parks and Natural Resources and Information Technology.  
 * Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering and mathematics) classes. 
-* Trasferrable soft skills are: 
+* Trasferrable soft skills: 
     - communication
     - collaboration
     - presenting to diverse audiences
     - adaptability/agility
     - problem-solving 
-    
 * I am drawn to software engineering because it requires continual learning, collaboration and there are many opportunities to give back to society.
 
 ## 🌱 Currently Learning
