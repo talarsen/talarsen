@@ -13,11 +13,10 @@
     - problem-solving 
 * I am drawn to software engineering because it requires continual learning, collaboration and there are many opportunities to give back to society.
 
-## 🌱 Currently Learning
-* Linux Foundation Cloud Computing Certification
-
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
+## 🌱 Currently Learning
+* Linux Foundation Cloud Computing Certification
 
 ## How to Reach Me
 [<img src="https://img.shields.io/badge/-%40talarsen74-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/talarsen74/)
@@ -52,6 +51,7 @@
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 ## Certifications
 [<img src="https://github.com/talarsen/talarsen/assets/20806815/cfa68e07-2558-4920-a29a-e8d15d031440">](https://www.credly.com/badges/3621c8fb-0e81-4f9d-98d6-edc63cda49b0/public_url)
 
