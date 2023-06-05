@@ -55,6 +55,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3621c8fb-0e81-4f9d-98d6-edc63cda49b0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![aws-certified-cloud-practitioner](https://www.credly.com/earner/earned/share/3621c8fb-0e81-4f9d-98d6-edc63cda49b0)
 
 
