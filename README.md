@@ -59,3 +59,4 @@
 ![aws-certified-cloud-practitioner](https://github.com/talarsen/talarsen/assets/20806815/c48ef16f-9689-4027-8a51-827ea3c06bfd)
 
 
+![image](https://github.com/talarsen/talarsen/assets/20806815/99bb1d56-3ebd-43f5-ab56-5830dc608cbc)
