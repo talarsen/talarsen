@@ -54,6 +54,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## Certifications
-![Amazon Certified Cloud Practioner](https://www.credly.com/badges/3621c8fb-0e81-4f9d-98d6-edc63cda49b0/public_url)
+
+![image](https://github.com/talarsen/talarsen/assets/20806815/3c758bff-480b-4659-8af9-ce419fadd2d1)
 
 
