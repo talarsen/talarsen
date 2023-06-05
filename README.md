@@ -15,7 +15,6 @@
 
 ## 🌱 Currently Learning
 * Linux Foundation Cloud Computing Certification
-* AWS Cloud Practicitioner Certification
 
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
@@ -54,9 +53,5 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## Certifications
+[<img src="https://github.com/talarsen/talarsen/assets/20806815/cfa68e07-2558-4920-a29a-e8d15d031440">(https://www.credly.com/badges/3621c8fb-0e81-4f9d-98d6-edc63cda49b0/public_url)
 
-
-![aws-certified-cloud-practitioner](https://github.com/talarsen/talarsen/assets/20806815/c48ef16f-9689-4027-8a51-827ea3c06bfd)
-
-
-![image](https://github.com/talarsen/talarsen/assets/20806815/99bb1d56-3ebd-43f5-ab56-5830dc608cbc = 100X100)
