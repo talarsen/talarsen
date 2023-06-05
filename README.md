@@ -56,3 +56,4 @@
 ## Certifications
 ![Amazon Certified Cloud Practioner](https://www.credly.com/badges/3621c8fb-0e81-4f9d-98d6-edc63cda49b0/public_url)
 
+
