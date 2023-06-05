@@ -56,5 +56,6 @@
 ## Certifications
 
 
+![aws-certified-cloud-practitioner](https://github.com/talarsen/talarsen/assets/20806815/c48ef16f-9689-4027-8a51-827ea3c06bfd)
 
 
