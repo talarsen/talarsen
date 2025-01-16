@@ -4,19 +4,21 @@
 ## About
 * Full-stack engineer PERN(PostgreSQL, Express, React, Node)
 * Bachelor of Science degrees in Recreation Administration and Information Technology.  
-* Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering and mathematics) classes. 
+* Prior to my time at [Techtonica](https://techtonica.org/), I was a middle school teacher who taught multiple subjects including STEM(science, technology, engineering, and mathematics) classes. 
 * Transferrable soft skills: 
     - communication
     - collaboration
     - presenting to diverse audiences
     - adaptability/agility
     - problem-solving 
-* I am drawn to software engineering because it requires continual learning, collaboration and there are many opportunities to give back to society.
+* I am drawn to tech because it requires continual learning, collaboration and there are many opportunities to give back to society.
 
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
 ## 🌱 Currently Learning
-* Linux Foundation Cloud Computing Certification
+* Linux 
+* Cloud Computing
+* Prompt Engineering
 
 ## How to Reach Me
 [<img src="https://img.shields.io/badge/-%40talarsen74-blue?style=plastic&logo=linkedin">](https://www.linkedin.com/in/talarsen74/)
