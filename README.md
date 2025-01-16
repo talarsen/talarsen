@@ -16,8 +16,8 @@
 ![Tara's GitHub stats](https://github-readme-stats.vercel.app/api?username=talarsen&show_icons=true&theme=nightowl)
 
 ## 🌱 Currently Learning
-* Linux 
-* Cloud Computing
+* Linux for the CompTia Linux+ exam
+* AWS Cloud Resume Challenge
 * Prompt Engineering
 
 ## How to Reach Me
